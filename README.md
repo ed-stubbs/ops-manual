@@ -1,3 +1,9 @@
+- [Meetings](#meetings)
+  - [Agenda](#agenda)
+  - [What is the purpose of a meeting?](#what-is-the-purpose-of-a-meeting)
+- [Planning](#planning)
+  - [People are bad at planning](#people-are-bad-at-planning)
+
 # Meetings
 
 ## Agenda
