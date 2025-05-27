@@ -1,6 +1,7 @@
 - [Meetings](#meetings)
   - [Agenda](#agenda)
   - [What is the purpose of a meeting?](#what-is-the-purpose-of-a-meeting)
+  - [Actions](#actions)
 - [Planning](#planning)
   - [People are bad at planning](#people-are-bad-at-planning)
 
@@ -34,6 +35,11 @@ Leave enough space for questions, especially if seeking input from someone unfam
 > Could this be an email?
 
 If a meeting agenda comprises exclusively "awareness" items, consider whether it should be an email. Otherwise it risks being a waste of time for the presenter and the audience, or becoming an unstructured Q&A session.
+
+## Actions
+* All actions must be assigned to an individual.
+* Record actions e.g. in the meeting chat.
+* Agree dates by which actions will be completed, or when you will next check in on progress.
 
 # Planning
 
